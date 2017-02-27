@@ -4,9 +4,9 @@
 aligning the class with other standards, but we need a more exciting
 name to attract students! -->
 
-Welcome to the new TEALS Intro CS Curriculum!
+Welcome to the new TEALS Intro CS Curriculum! 
 
-## About this curriculum
+## About this curriculum: Test Version on TEALSK12test GitHub/GitBook
 
 ### License
 This curriculum is licensed under the Creative Commons Attribution Non-Commercial Share-alike License (http://creativecommons.org/licenses/by-nc-sa/4.0/), which means you may share and adapt this material for non-commercial uses as long as you attribute its original source, and retain these same licensing terms.
